@@ -1,0 +1,28 @@
+.product-item {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 8px;
+    width: 200px;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* transition: box-shadow 0.3s ease;  */
+  }
+
+  /* .product-item :hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+   */
+  button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
